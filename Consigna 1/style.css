@@ -1,0 +1,12 @@
+.custom-form-width {
+    min-width: 280px;
+    max-width: 500px;
+}
+
+.custom-button-green {
+    width: 150px;
+}
+
+.custom-button-blue {
+    width: 200px;
+}
